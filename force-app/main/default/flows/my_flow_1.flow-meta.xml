@@ -26,12 +26,12 @@
     </processMetadataValues>
     <processType>AutoLaunchedFlow</processType>
     <start>
-        <locationX>555</locationX>
+        <locationX>333</locationX>
         <locationY>0</locationY>
         <doesRequireRecordChangedToMeetCriteria>true4</doesRequireRecordChangedToMeetCriteria>
         <filterLogic>and</filterLogic>
         <filters>
-            <field>AccountIdandFieldID</field>
+            <field>AccountIdandFieldGDP</field>
             <operator>EqualTo</operator>
             <value>
                 <booleanValue>false</booleanValue>
