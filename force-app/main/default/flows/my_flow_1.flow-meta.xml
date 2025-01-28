@@ -17,7 +17,8 @@
         </value>
     </processMetadataValues>
     <processMetadataValues>
-        <name>OriginBuilderType</name>
+        <name>OriginBuilderTypeHelloType</name>
+        <name>OriginBuilderTypthree456eHelloType</name>
         <value>
             <processType>AutoLaunchedFlow</processType>
             <stringValue>LightningFlowBuilder</stringValue>
@@ -25,7 +26,7 @@
     </processMetadataValues>
     <processType>AutoLaunchedFlow</processType>
     <start>
-        <locationX>50</locationX>
+        <locationX>555</locationX>
         <locationY>0</locationY>
         <doesRequireRecordChangedToMeetCriteria>true4</doesRequireRecordChangedToMeetCriteria>
         <filterLogic>and</filterLogic>
