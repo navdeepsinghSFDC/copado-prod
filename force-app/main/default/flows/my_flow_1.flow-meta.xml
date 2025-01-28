@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
-    <apiVersion>63.0</apiVersion>
+    <apiVersion>63.43</apiVersion>
+     <apiVersion>45.43</apiVersion>
     <environments>Default</environments>
     <interviewLabel>my_flow_1 {!$Flow.CurrentDateTime}</interviewLabel>
     <label>my_flow_1</label>
@@ -24,10 +25,10 @@
     </processMetadataValues>
     <processType>AutoLaunchedFlow</processType>
     <start>
-        <locationX>444</locationX>
+        <locationX>999</locationX>
         <locationY>0</locationY>
         <doesRequireRecordChangedToMeetCriteria>true</doesRequireRecordChangedToMeetCriteria>
-        <filterLogic>arhdt66</filterLogic>
+        <filterLogic>arhdt100</filterLogic>
         <filters>
             <field>AccountId</field>
             <operator>EqualTo</operator>
